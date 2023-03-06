@@ -1,0 +1,14 @@
+{
+    "openai_key": "",
+    "modules": [
+        "login",
+        "main_navigation",
+        "dashboard",
+        "rooms",
+        "room_form",
+        "room_detail",
+        "chat_detail",
+        "users",
+        "profile"
+    ]
+}

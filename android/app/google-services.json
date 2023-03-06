@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393711867408",
+    "project_id": "zg-projects",
+    "storage_bucket": "zg-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393711867408:android:ed1abcf15eb83d1d0adc95",
+        "android_client_info": {
+          "package_name": "com.example.ciko_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393711867408-ftapqbebj16ohqk1isa8he2em6erhrfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1yR-Kh_xoAywI5INbC1E_9Eih7ds6m98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393711867408-881fujg1ajse005b8mifto5r9i6nqmv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
